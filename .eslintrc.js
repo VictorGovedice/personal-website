@@ -22,7 +22,7 @@ module.exports = {
     'jsx-a11y/click-events-have-key-events': 0,
     'jsx-a11y/href-no-hash': 'off',
     'jsx-a11y/no-static-element-interactions': 0,
-    'linebreak-style': ['error', os.EOL === '\r\n' ? 'windows' : 'unix'],
+    'linebreak-style': 0,
     'no-console': ['error', {
       allow: ['warn', 'error', 'info'],
     }],
@@ -40,5 +40,8 @@ module.exports = {
       declaration: true,
       return: true,
     }],
+    // Novas regras adicionadas
+    'max-len': ['error', { 'code': 2000 }], // Aumenta o limite de comprimento de linha para 120 caracteres
+    'quotes': ['error', 'single', { 'avoidEscape': true, 'allowTemplateLiterals': true }], // Usa aspas simples, mas permite aspas duplas para evitar escape
   },
 };

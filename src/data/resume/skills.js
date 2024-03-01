@@ -62,7 +62,7 @@ const skills = [
   {
     title: 'Kubernetes',
     competency: 1,
-    category: ['Tools',],
+    category: ['Tools'],
   },
   {
     title: 'Google Cloud Compute',
@@ -77,7 +77,7 @@ const skills = [
   {
     title: 'Docker',
     competency: 3,
-    category: ['Tools',],
+    category: ['Tools'],
   },
   {
     title: 'Typescript',
@@ -92,7 +92,7 @@ const skills = [
   {
     title: 'Python',
     competency: 1,
-    category: ['Languages', 'Python',],
+    category: ['Languages', 'Python'],
   },
   {
     title: 'C#',

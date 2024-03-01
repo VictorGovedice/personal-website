@@ -5,8 +5,7 @@ const References = () => (
   <div className="references">
     <div className="link-to" id="references" />
     <div className="title">
-      <Link to="/contact">
-      </Link>
+      <Link to="/contact" />
     </div>
   </div>
 );

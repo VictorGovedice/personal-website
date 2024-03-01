@@ -5,16 +5,16 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Victor Govedice's personal website. Graduated from Anhanguera University, based in São Paulo., "
-    + 'Founder, Developer, and Software Engineer at DogPam.'}
+    description={'Site pessoal de Victor Govedice. Formado pela Universidade Anhanguera, com base em São Paulo.,'
+    + 'Fundador, Desenvolvedor e Engenheiro de Software na DogPam.'}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2><Link to="/">Sobre esse site</Link></h2>
           <p>
-          Uma aplicações react bonita, responsivo e gerado estaticamente, 
-          escrito com Javascript moderno.
+            Uma aplicações react bonita, responsivo e gerado estaticamente,
+            escrito com Javascript moderno.
           </p>
         </div>
       </header>
@@ -25,7 +25,7 @@ const Index = () => (
         ver <Link to="/stats">estatísticas do site</Link>, {' '}
         ou entrar em <Link to="/contact">contato</Link> comigo.
       </p>
-      <p> Whatsapp <a href="">+55 11 94188-1298</a>.</p>
+      <p> Whatsapp +55 11 94188-1298.</p>
     </article>
   </Main>
 );

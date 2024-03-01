@@ -70,8 +70,8 @@ const work = [
     highlights: [
       'Atuação como desenvolvedor front-end e back-end em soluções para websites de cartórios no Brasil.',
       'Especialização em Node.js para criação de APIs REST.',
-      "Emprego de JavaScript, C#, CSS/SASS, HTML, CSHTML para otimizar usabilidade.",
-      "Integração de APIs REST (JSON) para interação dinâmica.",
+      'Emprego de JavaScript, C#, CSS/SASS, HTML, CSHTML para otimizar usabilidade.',
+      'Integração de APIs REST (JSON) para interação dinâmica.',
       'Uso extensivo de bibliotecas como React e Angular.',
     ],
   },
