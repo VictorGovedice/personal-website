@@ -1,8 +1,10 @@
-// TODO Add a couple lines about each project
+// Para adicionar novos projetos!
+
 const data = [
   {
     title: 'SPCMapp',
     subtitle: 'Refatoração de app',
+    link: 'https://www.figma.com/file/4R4w6RPROPZ2jOAFFckYiH/SPCMapp?type=design&node-id=0-1&mode=design&t=CJql9mHSvqHEZeMO-0',
     image: '/images/projects/spmcmapp.jpg',
     date: '2021-01-15',
     desc:
@@ -29,6 +31,7 @@ const data = [
   {
     title: 'Arquitetura backend com Node.js',
     subtitle: 'O desenvolvimento do backend foi realizado utilizando tecnologias de ponta, incluindo Node.js, Express para a estruturação do servidor, JWT para a autenticação segura e Mongoose para a modelagem de dados.',
+    link: 'https://github.com/VictorGovedice/dogpambackend',
     image: '/images/projects/archbackend.jpg',
     date: '2020-05-15',
     desc:
