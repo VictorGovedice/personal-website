@@ -5,7 +5,7 @@ const data = [
     title: 'Sistema Carrefour (Cadastro de produtos e pedidos de usuários)',
     subtitle: 'Refatoração de app',
     link: 'https://www.youtube.com/watch?v=uhHqc1uzHyA',
-    image: '/images/projects/img-carrefour-sistema.png',
+    image: '/images/projects/img-carrefour-sistema.PNG',
     date: '2024-05-27',
     desc:
       'Este projeto foi desenvolvido em ReactJS e Node.js, com o banco de dados MongoDB. Trata-se de um sistema onde os usuários podem se cadastrar informando seu nome de usuário e e-mail, além de realizar pedidos. O sistema conta com um banco de dados MongoDB que armazena os produtos disponíveis.',
