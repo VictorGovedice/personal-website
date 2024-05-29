@@ -10,7 +10,7 @@ Welcome to my [personal website](https://victorgovedice.vercel.app/)! This is an
 
 ## 🛠 Adapting this Project
 
-Want to create your own personal website based on this project? You can set it up in as little as 30 minutes! Follow the setup instructions below and check out the **[detailed guide and checklist](./docs/adapting-guide.md)** on adapting this project to your needs. If you encounter any challenges, don't hesitate to contact me through an issue or email at [help@mldangelo.com](mailto:victorgovedice@gmail.com).
+Want to create your own personal website based on this project? You can set it up in as little as 30 minutes! Follow the setup instructions below and check out the **[detailed guide and checklist](./docs/adapting-guide.md)** on adapting this project to your needs. If you encounter any challenges, don't hesitate to contact me through an issue or email at [victorgovedice@gmail.com](mailto:victorgovedice@gmail.com).
 
 ## 🤝 Contributing
 
