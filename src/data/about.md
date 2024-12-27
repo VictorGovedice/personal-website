@@ -1,6 +1,18 @@
 # Introdução
 
-Com mais de cinco anos de experiência em desenvolvimento web, sou especialista em React para interfaces e tenho sólida prática com Node.js no back-end. Domínio tecnologias como HTML5, CSS3, JavaScript, Vue, Angular, React Native, Redux e TypeScript. No front-end, foco em criar interfaces modernas e interativas, enquanto no back-end desenvolvo APIs REST eficientes com Express e Node.js. Utilizo bancos de dados como MongoDB e SQL, além de possuir habilidades em otimização de desempenho, testes, qualidade de código, deploy, manutenção e ferramentas DevOps. Tenho seis anos de experiência como UX/UI Designer, utilizando Figma, Photoshop, Illustrator e XD para criar protótipos e designs centrados no usuário. Como desenvolvedor fullstack, utilizei Tooljet para projetos low-code e possuo conhecimento em SQL. Em marketing digital, tenho dois anos de experiência em gestão de tráfego, utilizando ferramentas como Google Analytics, Microsoft Clarity, Meta Ads, Google Ads e Google SEO. Fui responsável por planejamento estratégico, análise e gerenciamento de campanhas, otimizando investimentos em anúncios e aumentando taxas de conversão. Sou fluente em português e tenho inglês avançado, com experiência internacional. Além disso, tenho conhecimento em Python para análise e gestão de dados, ampliando minha capacidade de lidar com grandes volumes de informações e gerar insights valiosos para os projetos.
+Com cinco anos de experiência sólida em desenvolvimento web, especializo-me na criação de soluções robustas e eficientes, atuando tanto no front-end quanto no back-end. Minha expertise inclui o desenvolvimento de interfaces de usuário modernas e interativas, utilizando React e suas bibliotecas complementares, como Redux e Context API. No front-end, domino tecnologias como HTML5, CSS3, JavaScript, TypeScript, Vue.js e Angular, sempre buscando entregar interfaces responsivas e de alto desempenho.
+
+No back-end, possuo ampla experiência em Node.js, com foco na criação, integração e validação de APIs REST e GraphQL, além de trabalhar com bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB). Minha trajetória profissional inclui dois anos de atuação com .NET em uma empresa, onde desenvolvi aplicações empresariais utilizando C# e frameworks como ASP.NET, com foco em performance, segurança e escalabilidade. Tenho também conhecimentos sólidos em Python e PHP, aplicados ao desenvolvimento de APIs, automação de tarefas e sistemas de gerenciamento.
+
+Adoto práticas modernas de desenvolvimento, como arquitetura de microsserviços, autenticação segura (JWT e OAuth2), testes automatizados com Jest e Mocha, CI/CD, controle de versão com Git e deploy em plataformas como AWS e Vercel. Meu objetivo é entregar soluções escaláveis e de alta qualidade.
+
+Minha experiência com design UX/UI soma três anos, durante os quais me dediquei à criação de protótipos e interfaces centradas no usuário, utilizando ferramentas como Figma, Adobe Photoshop e XD. Essa vivência enriquece minha abordagem no desenvolvimento web, permitindo alinhar as necessidades dos usuários às soluções técnicas.
+
+Adicionalmente, acumulo dois anos de experiência em marketing digital, com foco na gestão de tráfego e análise de métricas usando ferramentas como Google Analytics, Meta Ads e Google Ads. Planejei e otimizei campanhas que resultaram em melhorias significativas nas taxas de conversão e na visibilidade de marcas.
+
+Fluente em português e com proficiência avançada em inglês, também tenho experiência em projetos globais e ambientes multiculturais, o que me permite colaborar com eficiência em equipes internacionais.
+
+Meu foco é entregar soluções inovadoras, escaláveis e centradas no usuário, garantindo qualidade, desempenho e impacto positivo em cada projeto.
 
 # Um pouco da minha História
 
