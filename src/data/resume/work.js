@@ -12,6 +12,25 @@
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
 const work = [
+    {
+    name: 'Alumni by better Tech',
+    position: 'Engenheiro de software / Desenvolvedor fullstack',
+    url: 'https://alumni.org.br/',
+    startDate: '15-06-2023 - 05-12-2024',
+    summary: `Atuei como engenheiro e desenvolvedor de software fullstack, focado na criação e integração de APIs e webhooks, além de realizar melhorias em sistemas existentes e desenvolver novos projetos. Fui responsável pela automação de tarefas manuais, otimizando processos para maior eficiência. No back-end, utilizei Node.js para construir aplicações robustas, enquanto no front-end trabalhei com React, Angular e Next.js para entregar interfaces modernas e responsivas.  
+
+    Minha especialidade era em JavaScript e TypeScript, garantindo um desenvolvimento ágil, seguro e eficiente. Também desenvolvi e mantive o painel do aluno, oferecendo uma experiência otimizada e personalizada para cada usuário, com foco em funcionalidades que promoviam autonomia e engajamento no ambiente de estudo. Além disso, apliquei melhores práticas de engenharia de software, desde a concepção da arquitetura até a entrega final, alcançando resultados escaláveis e de alta qualidade.`,
+    highlights: [
+      'Criação e integração de APIs e webhooks para sistemas robustos e escaláveis.',
+      'Desenvolvimento de novos projetos e melhorias em sistemas existentes, com foco em eficiência e segurança.',
+      'Automação de tarefas manuais para otimizar processos e aumentar a produtividade.',
+      'Desenvolvimento de aplicações robustas com Node.js no back-end.',
+      'Criação de interfaces modernas e responsivas usando React, Angular e Next.js.',
+      'Manutenção e aprimoramento do painel do aluno, promovendo autonomia e engajamento.',
+      'Especialidade em JavaScript e TypeScript, garantindo qualidade e rapidez no desenvolvimento.',
+      'Experiência abrangente em engenharia de software, desde a concepção até a entrega de soluções completas.',
+    ],
+  },
   {
     name: 'RM Farma',
     position: 'Desenvolvedor Front-end',
